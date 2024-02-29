@@ -14,6 +14,7 @@ body{
     height: 100vh;
     flex-basis: 75%;
 }
+/* main box section */
 .main__box{
     text-align: start !important;
     margin: 10px 0;
